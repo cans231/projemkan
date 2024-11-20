@@ -3,33 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "can", "can", "{EEFBBBF8-9477-4DF4-9381-8F394F7E2CA5}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "can1", "can1", "{525B3780-0032-49B2-826C-8F369D4ADCF8}"
-	ProjectSection(SolutionItems) = preProject
-		kal.cs = kal.cs
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{949DAC7E-6EA3-4CC0-84A0-175AFD6B47DC}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ae", "ae\ae.csproj", "{80A9C289-F55F-4926-9455-071723FDC8D6}"
 EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{80A9C289-F55F-4926-9455-071723FDC8D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{80A9C289-F55F-4926-9455-071723FDC8D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{80A9C289-F55F-4926-9455-071723FDC8D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{80A9C289-F55F-4926-9455-071723FDC8D6}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{80A9C289-F55F-4926-9455-071723FDC8D6} = {949DAC7E-6EA3-4CC0-84A0-175AFD6B47DC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E1B5E3F8-2A16-4B29-A528-474D138EC7EE}

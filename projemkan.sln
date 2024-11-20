@@ -5,6 +5,11 @@ VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "can1", "can1", "{525B3780-0032-49B2-826C-8F369D4ADCF8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ban", "ban", "{357C3F53-8FB1-43E1-A1A0-43BD5AF48AD4}"
+	ProjectSection(SolutionItems) = preProject
+		benla.cs = benla.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

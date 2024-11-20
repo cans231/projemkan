@@ -5,6 +5,11 @@ VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "can", "can", "{EEFBBBF8-9477-4DF4-9381-8F394F7E2CA5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "can1", "can1", "{525B3780-0032-49B2-826C-8F369D4ADCF8}"
+	ProjectSection(SolutionItems) = preProject
+		kal.cs = kal.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
